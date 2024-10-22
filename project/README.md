@@ -1,1 +1,7 @@
+In this project, I will investigate the effects of the 1998-2001 La Niña event on ocean temperatures and wind patterns along the coast of Japan. In particular, I will explore the following science question:
 
+How did the 1998-2001 La Niña event influence ocean temperature and wind-driven upwelling in the waters surrounding Japan?
+
+To investigate this question, I will construct a model that spans the island nation of Japan and includes the surrounding Kuroshio and Oyashio currents. I will run simulations from the year 1998 to 2001, which was characterized by significant La Niña conditions. The experiment will include two runs: one with the observed wind patterns of 1998-2001 and one without wind conditions. I anticipate that the La Niña-influenced winds will lead to changes in the intensity of upwelling and result in cooler surface temperatures compared to the neutral scenario, due to stronger wind-driven mixing and upwelling of deeper, colder water.
+
+For initial conditions, I will use the state of the ECCO Version 5 Model in January 1998. Boundary and external forcing conditions will also be derived from ECCO Version 5 outputs. To analyze the results, I will create a timeseries of temperature changes along the coast and evaluate the differences between the two models over time. Additionally, I will visualize the temperature anomalies and wind patterns through movies, and compare between the one with wind and without wind.
